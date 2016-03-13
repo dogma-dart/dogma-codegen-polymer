@@ -7,4 +7,5 @@
 // Exports
 //---------------------------------------------------------------------
 
+export 'src/codegen/model_proxy_view.dart';
 export 'src/codegen/reflectable_annotation.dart';
